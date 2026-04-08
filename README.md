@@ -1,8 +1,7 @@
-# Infrared-image-enhancement-
 
 
-# 🔥 Infrared Image Enhancement using UNet-Res-CBAM
 
+#  Infrared Image Enhancement
 ## 📌 Overview
 Infrared (IR) images often suffer from low contrast, blur, noise, and poor structural visibility due to sensor and environmental limitations.  
 This project implements a **deep learning–based infrared image enhancement pipeline** using a **Residual UNet architecture with CBAM (Channel & Spatial Attention)** to significantly improve image quality while preserving thermal structures.
